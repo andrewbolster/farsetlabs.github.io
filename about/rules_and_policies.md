@@ -28,6 +28,7 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
 
  * Be Excellent to each other;
  * Don't disturb those who do not want to be disturbed;
+ * [Intolerance will not be tolerated](equality.html);
  * If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it;
  * [Intolerance will not be tolerated](equality.html).
 
@@ -54,7 +55,7 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
     * If it is unsafe to do so;
     * That others are currently using;
     * That is marked as out of order or not to be used.
- * Store your projects and materials safely and with care;
+ * Store your projects and materials safely and with care in the provided member storage boxes;
  * Do not bring or use banned or unsafe materials or equipment;
  * All personal equipment being left or stored in communal areas of the space must be clearly labeled with the owners contact details;
  * Any equipment brought to the space with the intention of being [donated](/about/donations.html) for communal use must be labelled as such as per the [HDL](hardware_donation_license.html), and confirmed via [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) in advance. Such equipment will be at labeled with, at least, the owners contact details and a "GB DND" clause (Give Back, Do Not Disassemble).
